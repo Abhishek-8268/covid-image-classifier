@@ -53,7 +53,7 @@ The age range of COVID-19 cases in the dataset is 18-75 years.
 # Screenshots
 
 ### 1. **Upload Page**
-![Upload Screenshot](static/images/front(2).png)
+![Upload Screenshot](static/images/front.png)
 
 ### 2. **Prediction: COVID-19**
 ![COVID-19 Prediction Screenshot](static/images/covid.png)
